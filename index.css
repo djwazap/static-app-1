@@ -1,0 +1,45 @@
+
+#landing{
+
+	background: linear-gradient( 
+		rgba(0, 0, 0, 0.59), 
+		rgba(0, 0, 0, 0.59) ), 
+	url(https://www.law.georgetown.edu/environmental-law-review/wp-content/uploads/sites/18/2023/10/Photo-in-a-realistic-style_-Inside-the-renowned-New-York-Public-Library-the-vast-shelves-tell-a-different-tale.-Fewer-books-are-seen-and-in-their-pl-1-1-980x552.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+.navbar {
+	background-color: #5A50F6;
+}
+
+nav a {
+	font-family: 'Montserrat';
+	font-style: normal !important;
+	font-weight: 500 !important;
+	font-size: 18px !important;
+	line-height: 22px;
+	/* identical to box height */
+	text-align: center;
+	
+	color: white !important;
+}
+
+#featured{
+
+	background: linear-gradient( 
+		rgba(0, 0, 0, 0), 
+		rgba(0, 0, 0, 0) ), 
+	url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQvnO7MlXCmqjm5CjAVBSSlonUoAagiDpL40mKy7LF2g&s);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+.card{
+	width: 400px;
+}
+
+
+
